@@ -1,0 +1,13 @@
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\bin\Debug\Database1.mdf
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\bin\Debug\Database1_log.ldf
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\bin\Debug\AdressBook(V2).exe.config
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\bin\Debug\AdressBook(V2).exe
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\bin\Debug\AdressBook(V2).pdb
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook(V2).csproj.AssemblyReference.cache
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook(V2).csproj.SuggestedBindingRedirects.cache
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook_V2_.Form1.resources
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook_V2_.Properties.Resources.resources
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook(V2).csproj.GenerateResource.cache
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook(V2).csproj.CoreCompileInputs.cache
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook(V2).exe
+D:\facultate\Ruse 2021-2022 sem 2\Software Engineering\AdressBook(V2)\obj\Debug\AdressBook(V2).pdb
